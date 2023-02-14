@@ -56,7 +56,7 @@ For more detailed information on how chains are organized in the Hub, and how be
 
 ## 🤖 Agents
 
-At a high level, chains are organized by use case inside the `chains` directory.
+At a high level, Agents are organized by use case inside the `agents` directory.
 To load a chain in LangChain, you should use the following code snippet:
 
 ```python
